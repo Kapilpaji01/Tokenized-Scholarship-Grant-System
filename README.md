@@ -55,6 +55,7 @@ This smart contract enables sponsors to create scholarships and students to appl
 - `ApplicationSubmitted`: Triggered when a student applies
 - `ScholarshipAwarded`: Triggered when a scholarship is awarded
 
-## Contract Details :0xd9145CCE52D386f254917e481eB44e9943F39138
-<img width="1857" height="983" alt="image" src="https://github.com/user-attachments/assets/7ff0c9be-2bf3-4928-99ac-bbd441827deb" />
+## Contract Details : 0xf16c05C57F60C5b81402d4E884BCaF81E63762EF
+
+<img width="1759" height="824" alt="image" src="https://github.com/user-attachments/assets/906eb457-6beb-4b76-8b91-7040c3040003" />
 
